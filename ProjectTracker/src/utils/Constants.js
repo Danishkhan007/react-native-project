@@ -1,0 +1,24 @@
+//---------------- ACTIONS ----------------------//
+export const INCREMENT_ACTION = 'increment_action';
+export const REACHABILTY_ACTION = 'reachabilty_action';
+export const SPINNER_LOADING_ACTION = 'spinner_loading_action';
+export const REQUEST_SUCCESS_ACTION = 'request_success_action';
+export const REQUEST_FAIL_ACTION = 'request_fail_action';
+export const LOGIN_SUCCESS = 'login_success';
+export const TIMEENTRY_SAVED = 'time_entry';
+export const SERVER_TASK_LIST = 'server_task_list';
+export const PROJECT_LIST = 'project_list';
+export const CUSTOMER_LIST = 'customer_list';
+export const PROJECTLIST_KEY = 'projectlistkey';
+export const CUSTOMERLIST_KEY = 'customerlistkey';
+export const ACTIVITY_LIST = 'activitylist';
+export const SELECTED_PROJECT = 'selectedProject';
+export const OFFLINE_TASKQUEUE = 'offlineTaskQueue';
+export const NEW_OFFLINE_TASK_UPDATE = 'newOfflineTaskUpdate';
+export const ASTORAGE_OFFLINETASK = 'offlineTaskQueue';
+export const UPDATE_OFFLINETASKQUEUE = 'updateOfflineTask';
+export const UPDATE_FILTER_LIST = 'updateFilterList';
+export const RESET_ENTRYSAVE_FLAG = 'resetEntrySaveFlag';
+export const OFFLINE_UPLOAD = 'offline_upload';
+export const TOTAL_TODAYENTRY = 'total_today_entry';
+export const TOTAL_TODAYENTRY_TIME = 'total_today_time';
